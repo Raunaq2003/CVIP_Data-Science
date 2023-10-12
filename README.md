@@ -14,5 +14,31 @@ Conclusion of the Project:
 
 Task 2: Breast Cancer Prediction
 
+Conclusion of the project-
+
+Logistic Regression Model Accuracy on Training Data: ~95%
+
+Logistic Regression Model Accuracy on Testing Data: ~96%
+
+Classification Report:
+
+Precision, Recall, and F1-score for Malignant (M) class:
+
+Precision: ~95%
+
+Recall: ~98%
+
+F1-score: ~96%
+
+Precision, Recall, and F1-score for Benign (B) class:
+
+Precision: ~97%
+
+Recall: ~93%
+
+F1-score: ~95%
+
+
+
 Dataset Link: https://drive.google.com/file/d/11BczTdrSrICCHH9CR3ERqCfnuYtmoLLI/view?usp=drive_link
 
