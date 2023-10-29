@@ -38,7 +38,16 @@ Recall: ~93%
 
 F1-score: ~95%
 
-
-
 Dataset Link: https://drive.google.com/file/d/11BczTdrSrICCHH9CR3ERqCfnuYtmoLLI/view?usp=drive_link
+
+Phase 2
+
+Task 1 Email Spam Detection 
+
+Dataset Link- https://drive.google.com/file/d/1VpAvuh6UkGsyrEyt2C3XjterA1EEqlcQ/view?usp=drive_link
+
+Task 2 Speech Emotion Recognition
+
+Dataset Link-https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
+
 
